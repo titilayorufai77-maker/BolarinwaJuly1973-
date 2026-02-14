@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from telegram import Bot
 
-TOKEN = "PUT_YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8286509718:AAEKAEd-hzc9U14fCkzTDtQRrqwZH1n_-r8"
 CHAT_ID = "PUT_YOUR_CHAT_ID"
 
 bot = Bot(TOKEN)
